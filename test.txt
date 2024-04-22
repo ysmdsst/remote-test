@@ -1,2 +1,3 @@
 ファイルを作成
 GitHub上で更新
+remote repo
